@@ -29,7 +29,7 @@ displayName="Tutorial Mod" #mandatory
 # A file name (in the root of the mod JAR) containing a logo for display
 logoFile="examplemod.png" #optional
 # A text field displayed in the mod UI
-credits="Based off of 'Modding by Kaupenjoe' series on youtube" #optional
+credits="Based off of 'Modding by Kaupenjoe' series on youtube, all assets provided are also from Kaupenjoe" #optional
 # A text field displayed in the mod UI
 authors="Billybobtod4" #optional
 # Display Test controls the display for your mod in the server connection screen
